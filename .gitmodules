@@ -1,3 +1,5 @@
 [submodule "networking"]
 	path = networking
+	url = git@github.com:albrdev/marvin42-dacapo-networking.git
 	url = https://github.com/albrdev/marvin42-dacapo-networking.git
+	branch = master
