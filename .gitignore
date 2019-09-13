@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!.gitattributes
+
+!*.[mM][dD]
+!*.[tT][xX][tT]
+
+!networking/
+!networking/**/*
