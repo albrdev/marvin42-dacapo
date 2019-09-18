@@ -3,3 +3,8 @@
 	url = git@github.com:albrdev/marvin42-dacapo-networking.git
 	url = https://github.com/albrdev/marvin42-dacapo-networking.git
 	branch = master
+[submodule "motor_controller"]
+	path = motor_controller
+	url = git@github.com:albrdev/marvin42-dacapo-motor_controller.git
+	url = https://github.com/albrdev/marvin42-dacapo-motor_controller.git
+	branch = master
