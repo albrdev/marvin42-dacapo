@@ -8,3 +8,8 @@
 	url = git@github.com:albrdev/marvin42-dacapo-motor_controller.git
 	url = https://github.com/albrdev/marvin42-dacapo-motor_controller.git
 	branch = master
+[submodule "shared_libraries"]
+	path = shared_libraries
+	url = git@github.com:albrdev/marvin42-dacapo-shared_libraries.git
+	url = https://github.com/albrdev/marvin42-dacapo-shared_libraries.git
+	branch = master
