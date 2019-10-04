@@ -21,5 +21,5 @@
 [submodule "docs"]
 	path = docs
 	url = git@github.com:jonasbits/marvin42-dacapo-docs.git
-	url = https://github.com/albrdev/marvin42-dacapo-docs.git
+	url = https://github.com/jonasbits/marvin42-dacapo-docs.git
 	branch = master
