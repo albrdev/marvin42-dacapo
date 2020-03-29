@@ -23,3 +23,15 @@
 	url = git@github.com:jonasbits/marvin42-dacapo-docs.git
 	url = https://github.com/jonasbits/marvin42-dacapo-docs.git
 	branch = master
+[submodule "simulator"]
+	path = simulator
+	url = git@github.com:albrdev/marvin42-dacapo-simulator.git
+	url = https://github.com/albrdev/marvin42-dacapo-simulator.git
+[submodule "sonar"]
+	path = sonar
+	url = git@github.com:albrdev/marvin42-dacapo-sonar.git
+	url = https://github.com/albrdev/marvin42-dacapo-sonar.git
+[submodule "map_visualizer"]
+	path = map_visualizer
+	url = git@github.com:albrdev/marvin42-dacapo-map_visualizer.git
+	url = https://github.com/albrdev/marvin42-dacapo-map_visualizer.git
