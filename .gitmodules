@@ -35,3 +35,7 @@
 	path = map_visualizer
 	url = git@github.com:albrdev/marvin42-dacapo-map_visualizer.git
 	url = https://github.com/albrdev/marvin42-dacapo-map_visualizer.git
+[submodule "configs"]
+	path = configs
+	url = git@github.com:albrdev/marvin42-dacapo-configs.git
+	url = https://github.com/albrdev/marvin42-dacapo-configs.git
